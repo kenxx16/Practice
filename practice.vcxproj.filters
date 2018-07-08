@@ -45,5 +45,6 @@
     <None Include="Альманах\18062700.sal.alm" />
     <None Include="Альманах\18062701.sag.alm" />
     <None Include="Альманах\18062701.sal.alm" />
+    <None Include="praktika.db" />
   </ItemGroup>
 </Project>
