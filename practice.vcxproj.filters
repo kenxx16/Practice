@@ -21,9 +21,6 @@
     <ClInclude Include="targetver.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="sqlite3.h">
-      <Filter>Файлы ресурсов</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -32,19 +29,8 @@
     <ClCompile Include="practice.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="sqlite3.c">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-    <None Include="..\..\..\..\Desktop\SQLite\System.Data.SQLite.dll">
-      <Filter>Файлы ресурсов</Filter>
-    </None>
-    <None Include="Альманах\18062700.sag.alm" />
-    <None Include="Альманах\18062700.sal.alm" />
-    <None Include="Альманах\18062701.sag.alm" />
-    <None Include="Альманах\18062701.sal.alm" />
-    <None Include="praktika.db" />
   </ItemGroup>
 </Project>
