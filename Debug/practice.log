@@ -1,3 +1,2 @@
 ﻿  practice.cpp
-c:\users\kenx\source\repos\practice\practice\practice.cpp(164): warning C4302: <function-style-cast>: усечение из "const char *" к "SQLWCHAR"
   practice.vcxproj -> C:\Users\kenx\source\repos\practice\Debug\practice.exe

@@ -4,11 +4,11 @@
     <ShowAllFiles>false</ShowAllFiles>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
-    <LocalDebuggerCommandArguments>Альманах/18062700.sal.alm</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>Alman/18062700.sag.alm</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <LocalDebuggerCommandArguments>Alman/18062700.sag.alm Alman/18062700.sal.alm Alman/18062701.sal.alm Alman/18062701.sag.alm</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>Alman/18062700.sag.alm Alman/18062701.sag.alm Alman/18062700.sal.alm</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
     <LocalDebuggerSQLDebugging>true</LocalDebuggerSQLDebugging>
   </PropertyGroup>
